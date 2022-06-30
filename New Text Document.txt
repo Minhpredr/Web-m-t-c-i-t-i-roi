@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html,body{
+            border:#C1E8E8 10px solid;
+            margin: 0%;
+            padding: 0%;
+            width: 100%;
+            height: 100%;
+        }
+        h1,h3{
+            margin: auto;
+            margin-left: 70%;
+            background-color: #E7FAFA;
+        }
+        p{
+            background-color: #E7FAFA;
+            color: #008f96;
+            border-style:solid ;
+            border-color: #C1E8E8;
+            padding-bottom: 15%;
+           
+        }
+        span{
+            font-family: sans-serif;
+            font-size: 20px;
+        }
+        
+
+
+    </style>
+</head>
+<body>
+    <h1>Victoria's journal</h1>
+    <h3>So fresh and so clean</h3>
+    <p><span>04/09/08:spatulas </span><br>
+    Yesterday i went to the store and got some much -needed spatulas!(what a better way to say i love my 
+        self than to buy myself a spatula?
+    </p>
+    <p>04/08/08:Cookie monster Cupcakes<br>
+    My favorite cartoon character is Cookie monster ,and my favorite dessert is <br>cupcakes, so Cookie Monster 
+        cupcakes are the best of both worlds.
+   <br>
+    
+    Did you know ?Cookie Monster once said,"sometimes me think what is love ,<br>and then me think love is 
+        what last cookie is for .me give up last cookie for <br>you ."I wonder if the same applies for cupcakes
+        ?(if so,i dont think i can ever love ANYONE!)"</p>
+</body>
+</html>
